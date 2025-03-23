@@ -1,2 +1,2 @@
-# DS2002_Data-Project-1
-DS2002 Data Project 1 Submission
+# DS2002_Data Project 1
+Project Members: Shawn Malik and Maggie Dykstra
